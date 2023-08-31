@@ -2,6 +2,10 @@
 
 # TOPIC : SafeZone: Real-time Video Analytics for Industrial Safety
 
+# Description
+$ This is basically a PPE(Person Productive Equipment) Deduction Project.It deducts the hardhat,mask and safety vest of the construction workers.
+$ This project is developed with YOLO v8 and opencv.
+
 # DATASET LINK
 
 https://drive.google.com/drive/folders/13cyfJ4bnSoeQzfrLrVAOXBe2vFViOGvM?usp=sharing
